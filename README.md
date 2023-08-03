@@ -1,4 +1,4 @@
-Hi 👋 My name is Radosław Czerniawski
+Hi 👋 My name is Radek
 =====================================
 
 Frontend Engineer and Mentor

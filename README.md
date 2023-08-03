@@ -4,7 +4,7 @@ Hi 👋 My name is Radosław Czerniawski
 Frontend Engineer and Mentor
 ----------------------------
 
-I am a software engineer with a focus on front-end development, specialising in React. I have a passion for creating clean, efficient, and user-friendly web applications, and I love sharing my knowledge with others. In addition to working as a software engineer, I also have experience mentoring future front-end developers. As an instructor, I have helped students master the fundamentals of javascript and other front-end technologies.
+I am an engineer specializing in front-end development with a focus on React. I am passionate about creating clean, efficient, and user-friendly web applications, and I enjoy sharing my knowledge with others. Additionally, I have experience mentoring future front-end developers, helping them master the fundamentals of JavaScript and other front-end technologies.
 
 * 🌍  I'm based in Poland
 * ✉️  You can contact me at [radoslaw.b.czerniawski@gmail.com](mailto:radoslaw.b.czerniawski@gmail.com)

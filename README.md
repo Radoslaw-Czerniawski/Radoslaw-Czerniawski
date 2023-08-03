@@ -7,7 +7,7 @@ Frontend Engineer and Mentor
 I am an engineer specializing in front-end development with a focus on React. I am passionate about creating clean, efficient, and user-friendly web applications, and I enjoy sharing my knowledge with others. Additionally, I have experience mentoring future front-end developers, helping them master the fundamentals of JavaScript and other front-end technologies.
 
 * 🌍  I'm based in Poland
-* ✉️  You can contact me at [radoslaw.b.czerniawski@gmail.com](mailto:radoslaw.b.czerniawski@gmail.com)
+* ✉️  You can reach out to me on my socials 😃
 * 🚀  I'm currently working on [Whiteboards.io](http://whiteboards.io/)
 
 ### Skills

@@ -8,7 +8,7 @@ I am an engineer specializing in front-end development with a focus on React. I 
 
 * 🌍  I'm based in Poland
 * ✉️  You can reach out to me on my socials 😃
-* 🚀  I'm currently working on [Whiteboards.io](http://whiteboards.io/)
+* 🚀  I'm currently working @ [Airspace Intelligence](https://www.airspace-intelligence.com/)
 
 ### Skills
 

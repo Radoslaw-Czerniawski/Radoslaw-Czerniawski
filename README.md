@@ -1,7 +1,7 @@
 Hi 👋 My name is Radek
 =====================================
 
-Frontend Engineer and Mentor
+Senior Frontend Engineer
 ----------------------------
 
 I am an engineer specializing in front-end development with a focus on React. I am passionate about creating clean, efficient, and user-friendly web applications, and I enjoy sharing my knowledge with others. Additionally, I have experience mentoring future front-end developers, helping them master the fundamentals of JavaScript and other front-end technologies.

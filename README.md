@@ -8,7 +8,7 @@ I am an engineer specializing in front-end development with a focus on React. I 
 
 * 🌍  I'm based in Poland
 * ✉️  You can reach out to me on my socials 😃
-* 🚀  Currently creating User Interfaces for monitoring stuff @ [Dynatrace](https://www.dynatrace.com)
+* 📊  Currently creating User Interfaces for monitoring stuff @ [Dynatrace](https://www.dynatrace.com)
 
 ### Skills
 
